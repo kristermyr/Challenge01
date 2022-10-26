@@ -7,8 +7,8 @@ I improved the websites code organization and accessibility standards. I learned
 
 ## Installation
 
-Open URL: 
-Open Github Repository:
+Website URL: https://kristermyr.github.io/challenge01/
+Open Github Repository: https://github.com/kristermyr/challenge01
 
 ## Usage
 
@@ -28,11 +28,12 @@ THEN I find a concise, descriptive title
 
 ## Credits
 
-Completed with:
+Completed in colaboration with:
+
 Salahudin Asim
-Link:
+
 Dylan Qualee
-link:
+
 
 ## License
 
